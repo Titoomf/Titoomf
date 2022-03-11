@@ -1,9 +1,9 @@
 ### Olá, eu sou o Augusto Mendonca ||  Hi, I'm Augusto Mendonca
 
-- 📚 Atualmente estou aprendendo a linguagem Dart || I am currently learning the Dart language ...
-- 🍃 Apaixonado por flutter || In love with flutter
-- ✔️ Desenvolo aplicativos com flutter há um ano. || I've been developing applications with flutter for a year.
-- ✨ Cada novo dia, novos conhecimentos que ajudam no meu desenvolvimento como programador. || Every new day, new knowledge that helps in my development as a programmer.
+- 📚 Atualmente estou aprendendo a linguagem Dart.
+- 🍃 Apaixonado por flutter 
+- ✔️ Desenvolo aplicativos com flutter há um ano. 
+- ✨ Evoluindo novos conhecimentos e praticando todo dia um pouco, isso faz  com que ajuda no meu desenvolvimento como programador. 
 
 
 <div align="center">
