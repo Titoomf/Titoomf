@@ -2,7 +2,7 @@
 
 - 📚 Atualmente estou aprendendo a linguagem Dart.
 - 🍃 Apaixonado por flutter 
-- ✔️ Desenvolo aplicativos com flutter há um ano. 
+- ✔️ Desenvolvo aplicativos com flutter há um ano. 
 - ✨ Evoluindo novos conhecimentos e praticando todo dia um pouco, isso faz  com que ajuda no meu desenvolvimento como programador. 
 
 
